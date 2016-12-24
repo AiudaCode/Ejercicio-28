@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1475989243 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio28\main.cpp
+	<iostream>
+	"Agua.h"
+
+1475988941 c:\users\omarm\dropbox\codeblocks proyects\ejercicio28\include\agua.h
+
+1475989192 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio28\src\agua.cpp
+	"Agua.h"
+
